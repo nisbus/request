@@ -1,0 +1,7 @@
+{ "name" : "request",
+  "description" : "Simplified HTTP request client.",
+  "categories" : ["http", "utils", "utility"],
+  "version" : "2.9.203",
+  "modules": ["vendor", "aws.js", "forever.js", "mimetypes.js", "tunnel.js", 
+              "oauth.js", "uuid.js", "main.js"]
+}
